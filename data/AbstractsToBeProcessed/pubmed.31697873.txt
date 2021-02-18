@@ -1,0 +1,1180 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">31697873</PMID>
+        <DateCompleted>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>06</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1533-4406</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>381</Volume>
+                    <Issue>19</Issue>
+                    <PubDate>
+                        <Year>2019</Year>
+                        <Month>11</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The New England journal of medicine</Title>
+                <ISOAbbreviation>N Engl J Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Elexacaftor-Tezacaftor-Ivacaftor for Cystic Fibrosis with a Single Phe508del Allele.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1809-1819</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1056/NEJMoa1908639</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Cystic fibrosis is caused by mutations in the gene encoding the cystic fibrosis transmembrane conductance regulator (CFTR) protein, and nearly 90% of patients have at least one copy of the Phe508del <i>CFTR</i> mutation. In a phase 2 trial involving patients who were heterozygous for the Phe508del <i>CFTR</i> mutation and a minimal-function mutation (Phe508del-minimal function genotype), the next-generation CFTR corrector elexacaftor, in combination with tezacaftor and ivacaftor, improved Phe508del CFTR function and clinical outcomes.</AbstractText>
+                <AbstractText Label="METHODS">We conducted a phase 3, randomized, double-blind, placebo-controlled trial to confirm the efficacy and safety of elexacaftor-tezacaftor-ivacaftor in patients 12 years of age or older with cystic fibrosis with Phe508del-minimal function genotypes. Patients were randomly assigned to receive elexacaftor-tezacaftor-ivacaftor or placebo for 24 weeks. The primary end point was absolute change from baseline in percentage of predicted forced expiratory volume in 1 second (FEV<sub>1</sub>) at week 4.</AbstractText>
+                <AbstractText Label="RESULTS">A total of 403 patients underwent randomization and received at least one dose of active treatment or placebo. Elexacaftor-tezacaftor-ivacaftor, relative to placebo, resulted in a percentage of predicted FEV<sub>1</sub> that was 13.8 points higher at 4 weeks and 14.3 points higher through 24 weeks, a rate of pulmonary exacerbations that was 63% lower, a respiratory domain score on the Cystic Fibrosis Questionnaire-Revised (range, 0 to 100, with higher scores indicating a higher patient-reported quality of life with regard to respiratory symptoms; minimum clinically important difference, 4 points) that was 20.2 points higher, and a sweat chloride concentration that was 41.8 mmol per liter lower (P&lt;0.001 for all comparisons). Elexacaftor-tezacaftor-ivacaftor was generally safe and had an acceptable side-effect profile. Most patients had adverse events that were mild or moderate. Adverse events leading to discontinuation of the trial regimen occurred in 1% of the patients in the elexacaftor-tezacaftor-ivacaftor group.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">Elexacaftor-tezacaftor-ivacaftor was efficacious in patients with cystic fibrosis with Phe508del-minimal function genotypes, in whom previous CFTR modulator regimens were ineffective. (Funded by Vertex Pharmaceuticals; VX17-445-102 ClinicalTrials.gov number, NCT03525444.).</AbstractText>
+                <CopyrightInformation>Copyright © 2019 Massachusetts Medical Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Middleton</LastName>
+                    <ForeName>Peter G</ForeName>
+                    <Initials>PG</Initials>
+                    <Identifier Source="ORCID">0000-0003-3361-4941</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mall</LastName>
+                    <ForeName>Marcus A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dřevínek</LastName>
+                    <ForeName>Pavel</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lands</LastName>
+                    <ForeName>Larry C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McKone</LastName>
+                    <ForeName>Edward F</ForeName>
+                    <Initials>EF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Polineni</LastName>
+                    <ForeName>Deepika</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramsey</LastName>
+                    <ForeName>Bonnie W</ForeName>
+                    <Initials>BW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taylor-Cousar</LastName>
+                    <ForeName>Jennifer L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tullis</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vermeulen</LastName>
+                    <ForeName>François</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marigowda</LastName>
+                    <ForeName>Gautham</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McKee</LastName>
+                    <ForeName>Charlotte M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moskowitz</LastName>
+                    <ForeName>Samuel M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nair</LastName>
+                    <ForeName>Nitin</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Savage</LastName>
+                    <ForeName>Jessica</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simard</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tian</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waltz</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xuan</LastName>
+                    <ForeName>Fengjuan</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rowe</LastName>
+                    <ForeName>Steven M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>Raksha</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Respiratory and Sleep Medicine, Westmead Hospital and CF Research Group, Ludwig Engel Centre for Respiratory Research, Westmead Institute for Medical Research, University of Sydney, Westmead, NSW, Australia (P.G.M.); the Department of Pediatric Pulmonology, Immunology, and Intensive Care Medicine, Charité-Universitätsmedizin Berlin, the Berlin Institute of Health, and the German Center for Lung Research, Berlin (M.A.M.); the Department of Medical Microbiology, Department of Pediatrics, 2nd Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic (P.D.); the Pediatric Respiratory Medicine and Pediatric Cystic Fibrosis Clinic, McGill University Health Centre, Montreal (L.C.L.); St. Vincent's University Hospital and University College Dublin School of Medicine, Dublin (E.F.M.); the Department of Internal Medicine, University of Kansas Medical Center, Kansas City (D.P.); the Department of Pediatrics, University of Washington School of Medicine, and Seattle Children's Research Institute, Seattle (B.W.R.); the Departments of Medicine and Pediatrics, National Jewish Health, Denver (J.L.T.-C.); the Division of Respirology, St. Michael's Hospital, University of Toronto, Toronto (E.T.); the Cystic Fibrosis Reference Center, Department of Pediatrics, Catholic University of Leuven, Leuven, Belgium (F.V.); Vertex Pharmaceuticals, Boston (G.M., C.M.M., S.M.M., N.N., J.S., C.S., S.T., D.W., F.X.); the Departments of Medicine, Pediatrics, and Cell, Developmental, and Integrative Biology, University of Alabama at Birmingham, Birmingham (S.M.R.); and the Department of Internal Medicine, University of Texas Southwestern Medical Center, Dallas (R.J.).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>VX17-445-102 Study Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ClinicalTrials.gov</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>NCT03525444</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U54 TR001368</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 DK089507</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R35 HL135816</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR002319</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 TR002487</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 DK072482</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D017428">Clinical Trial, Phase III</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2019</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>N Engl J Med</MedlineTA>
+            <NlmUniqueID>0255562</NlmUniqueID>
+            <ISSNLinking>0028-4793</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000627">Aminophenols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D052117">Benzodioxoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C505032">CFTR protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D065101">Chloride Channel Agonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002712">Chlorides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004338">Drug Combinations</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011720">Pyrazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011725">Pyridines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011759">Pyrrolidines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015363">Quinolones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C000625213">tezacaftor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126880-72-6</RegistryNumber>
+                <NameOfSubstance UI="D019005">Cystic Fibrosis Transmembrane Conductance Regulator</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1Y740ILL1Z</RegistryNumber>
+                <NameOfSubstance UI="C545203">ivacaftor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>RRN67GMB0V</RegistryNumber>
+                <NameOfSubstance UI="C000629074">elexacaftor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>N Engl J Med. 2020 Feb 13;382(7):684</RefSource>
+                <PMID Version="1">32053310</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000627" MajorTopicYN="N">Aminophenols</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052117" MajorTopicYN="N">Benzodioxoles</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D065101" MajorTopicYN="N">Chloride Channel Agonists</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002712" MajorTopicYN="N">Chlorides</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003550" MajorTopicYN="N">Cystic Fibrosis</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019005" MajorTopicYN="N">Cystic Fibrosis Transmembrane Conductance Regulator</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004338" MajorTopicYN="N">Drug Combinations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005541" MajorTopicYN="N">Forced Expiratory Volume</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007211" MajorTopicYN="N">Indoles</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="Y">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011720" MajorTopicYN="N">Pyrazoles</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011725" MajorTopicYN="N">Pyridines</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011759" MajorTopicYN="N">Pyrrolidines</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015363" MajorTopicYN="N">Quinolones</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013542" MajorTopicYN="N">Sweat</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>McCoy</LastName>
+                <ForeName>Karen</ForeName>
+                <Initials>K</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Aitken</LastName>
+                <ForeName>Moira</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Donaldson</LastName>
+                <ForeName>Scott</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Walker</LastName>
+                <ForeName>Seth</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Chmiel</LastName>
+                <ForeName>James</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Rubenstein</LastName>
+                <ForeName>Ronald</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Linnemann</LastName>
+                <ForeName>Rachel</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Murphy</LastName>
+                <ForeName>Peter James</ForeName>
+                <Initials>PJ</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Berdella</LastName>
+                <ForeName>Maria</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Froh</LastName>
+                <ForeName>Deborah K</ForeName>
+                <Initials>DK</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Joseph</LastName>
+                <ForeName>Patricia</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Neuringer</LastName>
+                <ForeName>Isabel</ForeName>
+                <Initials>I</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Jain</LastName>
+                <ForeName>Manu</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Moffett</LastName>
+                <ForeName>Kathryn</ForeName>
+                <Initials>K</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Taylor-Cousar</LastName>
+                <ForeName>Jennifer L</ForeName>
+                <Initials>JL</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Quick</LastName>
+                <ForeName>Bryon D</ForeName>
+                <Initials>BD</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Barnett</LastName>
+                <ForeName>Bruce</ForeName>
+                <Initials>B</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cairns</LastName>
+                <ForeName>Anne Marie</ForeName>
+                <Initials>AM</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Fiel</LastName>
+                <ForeName>Stanley</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Mueller</LastName>
+                <ForeName>Gary</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Flume</LastName>
+                <ForeName>Patrick</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Livingston</LastName>
+                <ForeName>Floyd</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Omlor</LastName>
+                <ForeName>Gregory</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Braun</LastName>
+                <ForeName>Andrew</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Mehdi</LastName>
+                <ForeName>Nighat</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Schmidt</LastName>
+                <ForeName>Howard Joel</ForeName>
+                <Initials>HJ</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Teneback</LastName>
+                <ForeName>Charlotte</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Scher</LastName>
+                <ForeName>Herschel</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>McWilliams</LastName>
+                <ForeName>Bennie</ForeName>
+                <Initials>B</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Polineni</LastName>
+                <ForeName>Deepika</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Morrissey</LastName>
+                <ForeName>Brian</ForeName>
+                <Initials>B</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Chittivelu</LastName>
+                <ForeName>Subramanyam</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Schaeffer</LastName>
+                <ForeName>David</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Reddivalum</LastName>
+                <ForeName>Sudhakar</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Klingsberg</LastName>
+                <ForeName>Ross Carl</ForeName>
+                <Initials>RC</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Biller</LastName>
+                <ForeName>Julie</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Dehlink</LastName>
+                <ForeName>Eleonora</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Sommerburg</LastName>
+                <ForeName>Olaf</ForeName>
+                <Initials>O</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Leroy</LastName>
+                <ForeName>Sylvie</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Salvatore</LastName>
+                <ForeName>Donatello</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Johnson</LastName>
+                <ForeName>Larry G</ForeName>
+                <Initials>LG</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Marguet</LastName>
+                <ForeName>Christophe</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Macedo</LastName>
+                <ForeName>Patricia</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Forseen</LastName>
+                <ForeName>Caralee</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ly</LastName>
+                <ForeName>Ngoc</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Lysinger</LastName>
+                <ForeName>Jerimiah</ForeName>
+                <Initials>J</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ratjen</LastName>
+                <ForeName>Felix</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Chilvers</LastName>
+                <ForeName>Mark</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Quon</LastName>
+                <ForeName>Bradley</ForeName>
+                <Initials>B</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Lands</LastName>
+                <ForeName>Larry</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Parkins</LastName>
+                <ForeName>Michael</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Maitra</LastName>
+                <ForeName>Anirban</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Daigneault</LastName>
+                <ForeName>Patrick</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Alexander</LastName>
+                <ForeName>Wendy</ForeName>
+                <Initials>W</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Aboulhosn</LastName>
+                <ForeName>Kewan</ForeName>
+                <Initials>K</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Diamantea</LastName>
+                <ForeName>Filia</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>McColley</LastName>
+                <ForeName>Susanna</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Grenet</LastName>
+                <ForeName>Dominique</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ringshausen</LastName>
+                <ForeName>Felix</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Griese</LastName>
+                <ForeName>Matthias</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Kiefer</LastName>
+                <ForeName>Alexander</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Drevinek</LastName>
+                <ForeName>Pavel</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Homola</LastName>
+                <ForeName>Lukas</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Hector</LastName>
+                <ForeName>Andreas</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Naehrlich</LastName>
+                <ForeName>Lutz</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Poplawska</LastName>
+                <ForeName>Krystyna</ForeName>
+                <Initials>K</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Downey</LastName>
+                <ForeName>Damian</ForeName>
+                <Initials>D</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Unger</LastName>
+                <ForeName>Stefan</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Carroll</LastName>
+                <ForeName>Mary</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Nash</LastName>
+                <ForeName>Edward</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Withers</LastName>
+                <ForeName>Nicholas</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Lee</LastName>
+                <ForeName>Timothy</ForeName>
+                <Initials>T</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Gray</LastName>
+                <ForeName>Robert</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Fajac</LastName>
+                <ForeName>Isabelle</ForeName>
+                <Initials>I</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Bakker</LastName>
+                <ForeName>Marleen</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Heijerman</LastName>
+                <ForeName>Harry</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Vermeulen</LastName>
+                <ForeName>Francois</ForeName>
+                <Initials>F</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Van Braeckel</LastName>
+                <ForeName>Eva</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Knoop</LastName>
+                <ForeName>Christiane</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>De Wachter</LastName>
+                <ForeName>Elke</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Durieu</LastName>
+                <ForeName>Isabelle</ForeName>
+                <Initials>I</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Bui</LastName>
+                <ForeName>Stephanie</ForeName>
+                <Initials>S</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Dufeu</LastName>
+                <ForeName>Nadine</ForeName>
+                <Initials>N</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>van der Meer</LastName>
+                <ForeName>Renske</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Merkus</LastName>
+                <ForeName>Petrus</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Majoor</LastName>
+                <ForeName>Christof</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Selvadurai</LastName>
+                <ForeName>Hiranjan</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Robinson</LastName>
+                <ForeName>Philip</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Burr</LastName>
+                <ForeName>Lucy</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Middleton</LastName>
+                <ForeName>Peter</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Tai</LastName>
+                <ForeName>Andrew</ForeName>
+                <Initials>A</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Taccetti</LastName>
+                <ForeName>Giovanni</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Melotti</LastName>
+                <ForeName>Paola</ForeName>
+                <Initials>P</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Colombo</LastName>
+                <ForeName>Carla</ForeName>
+                <Initials>C</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Cipolli</LastName>
+                <ForeName>Marco</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Casciaro</LastName>
+                <ForeName>Rosaria</ForeName>
+                <Initials>R</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Minicucci</LastName>
+                <ForeName>Laura</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Eber</LastName>
+                <ForeName>Ernst</ForeName>
+                <Initials>E</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Ellemunter</LastName>
+                <ForeName>Helmut</ForeName>
+                <Initials>H</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Studnicka</LastName>
+                <ForeName>Michael</ForeName>
+                <Initials>M</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Hjelte</LastName>
+                <ForeName>Lena</ForeName>
+                <Initials>L</Initials>
+            </Investigator>
+            <Investigator ValidYN="Y">
+                <LastName>Magazzu</LastName>
+                <ForeName>Giuseppe</ForeName>
+                <Initials>G</Initials>
+            </Investigator>
+        </InvestigatorList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2019</Year>
+                <Month>11</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2019</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">31697873</ArticleId>
+            <ArticleId IdType="doi">10.1056/NEJMoa1908639</ArticleId>
+            <ArticleId IdType="pmc">PMC7282384</ArticleId>
+            <ArticleId IdType="mid">NIHMS1595677</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Lancet Respir Med. 2013 Apr;1(2):158-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24429096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2011 Aug;66(8):680-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21680566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cyst Fibros. 2012 Sep;11(5):405-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22561369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2017 Nov 23;377(21):2013-2023</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29099344</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2019 Nov 23;394(10212):1940-1948</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31679946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cyst Fibros. 2020 Jan;19(1):68-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31196670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2017 Nov 23;377(21):2024-2035</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29099333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1991 Dec 19-26;354(6354):526-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1722027</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2008 Aug 2;372(9636):415-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18675692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2018 Oct 25;379(17):1612-1620</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30334692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2015 Jul 16;373(3):220-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25981758</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Clin North Am. 2016 Aug;63(4):567-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27469176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1992 Apr 30;326(18):1187-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1285737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2016 Nov 19;388(10059):2519-2531</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27140670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Pulmonol. 2018 Nov;53(S3):S4-S11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30289627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2011 Nov 3;365(18):1663-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22047557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2018 Aug;73(8):731-740</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29748252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2019 May 10;9(1):7234</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31076617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Am Thorac Soc. 2017 Feb;14(2):213-219</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27898234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 1975 Jun;82(6):806-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1138590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pediatr Pulmonol. 2017 Oct;52(10):1268-1275</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28881091</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2018 Oct 25;379(17):1599-1611</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">30334693</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2005 May 12;352(19):1992-2001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15888700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2009 May 30;373(9678):1891-904</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19403164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1993 Oct 15;268(29):21592-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7691813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Crit Care Med. 2015 Oct 1;192(7):836-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26132840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pediatr. 2008 Aug;153(2):S4-S14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18639722</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Crit Care Med. 2014 Jul 15;190(2):175-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24927234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Respir Med. 2009 Mar;103(3):407-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19027279</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ERJ Open Res. 2019 Jun 17;5(2):</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">31218221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
